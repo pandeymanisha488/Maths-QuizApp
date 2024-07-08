@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appBg_color">#733c9c</color>
+    <color name="appTheme_color">#A45FDA</color>
+    <color name="bg_color">#40568C</color>
+    <color name="pink">#ff49bd</color>  <!--ff49bd--> <!--e383d5-->
+    <color name="dark_pink">#FC2988</color>
+    <color name="purple">#875cda</color>
+    <color name="dark_purple">#6c42c2</color>
+    <color name="green">#09BC11</color>
+    <color name="wrong">#CC2F23</color>
+    <color name="red">#B10C00</color>
+    <color name="primary_text_color">#FFFFFF</color>
+    <color name="txt_color">#FF1B1A1A</color>
+    <color name="cardbolor">#541E3F90</color>
+    <color name="primary_color">#070a30</color>
+    <color name="secondary_color">#1e3f90</color>
+    <color name="gray">#F7E8E6E6</color>
+</resources>

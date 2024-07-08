@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!-- res/drawable/common_ripple_effect_btn.xml -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/gray">
+    <item android:drawable="@drawable/rounded_corner_bg" />
+
+</ripple>
